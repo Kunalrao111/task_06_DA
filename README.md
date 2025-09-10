@@ -1,4 +1,6 @@
 📊 Task 06: Basic Sales Data Analysis with SQLite & Python
+
+
 🧾 Overview
 This project demonstrates how to connect Python to a small SQLite database (sales_data.db), run SQL queries to extract sales insights, and visualize the results using matplotlib. It's a beginner-friendly exercise in data analysis using SQL and Python.
 
